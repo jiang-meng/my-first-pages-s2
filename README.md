@@ -1,2 +1,10 @@
-# my-first-pages-s2
+# Jiang Meng 
+
+Hello guys, this is jiangmeng
+
+## Skills
+
+I can do
+
+ - python
  
